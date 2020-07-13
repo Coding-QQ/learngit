@@ -1,5 +1,5 @@
-# 自动驾驶并行车队的协同换道控制
+# Learn how to use git
 
-## 主要结构
+## My first git
 
-此代码由三个部分组成，一个为基于A*算法的控制模型，一个为基于0-1整数线性规划的控制模型，还有一个为基于规则方法的控制模型。
+My English also needs improving.
